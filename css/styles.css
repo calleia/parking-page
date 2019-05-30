@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Ek+Mukta:700");
+
+body {
+  overflow: hidden;
+  font-family: "Ek Mukta", sans-serif;
+}
+
+#contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+#mail {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 60px;
+  color: crimson;
+}
